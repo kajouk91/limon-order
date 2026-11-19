@@ -1,0 +1,4 @@
+@media print {
+  body { background: #fff !important; padding: 0 !important; }
+  .topbar, .floating-cart, .btn, .filter-card { display: none !important; }
+}
